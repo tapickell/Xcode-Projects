@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/kmng/!svn/ver/405/trunk/Sources/Crypto
+END
+WaveNetWEPCrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Crypto/WaveNetWEPCrack.h
+END
+md5.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/kmng/!svn/ver/383/trunk/Sources/Crypto/md5.m
+END
+WaveNetWPACrack.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/405/trunk/Sources/Crypto/WaveNetWPACrack.m
+END
+WPA.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/kmng/!svn/ver/405/trunk/Sources/Crypto/WPA.m
+END
+WaveNetWEPCrack.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/402/trunk/Sources/Crypto/WaveNetWEPCrack.m
+END
+WaveNetWEPWeakCrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/383/trunk/Sources/Crypto/WaveNetWEPWeakCrack.h
+END
+WaveNetWEPWeakCrack.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/383/trunk/Sources/Crypto/WaveNetWEPWeakCrack.m
+END
+RC4.mm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/383/trunk/Sources/Crypto/RC4.mm
+END
+WaveNetWEPWordlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/383/trunk/Sources/Crypto/WaveNetWEPWordlist.h
+END
+WaveNetLEAPCrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/383/trunk/Sources/Crypto/WaveNetLEAPCrack.h
+END
+AirCrackWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Crypto/AirCrackWrapper.h
+END
+LEAP.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/405/trunk/Sources/Crypto/LEAP.h
+END
+WaveNetWEPWordlist.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/402/trunk/Sources/Crypto/WaveNetWEPWordlist.m
+END
+WaveNetLEAPCrack.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/383/trunk/Sources/Crypto/WaveNetLEAPCrack.m
+END
+WaveNetWPACrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Crypto/WaveNetWPACrack.h
+END
+AirCrackWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Crypto/AirCrackWrapper.m
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/kmng/!svn/ver/383/trunk/Sources/Crypto/md5.h
+END
+LEAP.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/405/trunk/Sources/Crypto/LEAP.m
+END
+WPA.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/kmng/!svn/ver/405/trunk/Sources/Crypto/WPA.h
+END
+RC4.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/kmng/!svn/ver/383/trunk/Sources/Crypto/RC4.h
+END

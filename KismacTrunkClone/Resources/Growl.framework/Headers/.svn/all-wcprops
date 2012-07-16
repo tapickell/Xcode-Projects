@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/383/trunk/Resources/Growl.framework/Headers
+END
+Growl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/kmng/!svn/ver/383/trunk/Resources/Growl.framework/Headers/Growl.h
+END
+GrowlApplicationBridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/kmng/!svn/ver/383/trunk/Resources/Growl.framework/Headers/GrowlApplicationBridge.h
+END
+GrowlApplicationBridge-Carbon.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/kmng/!svn/ver/383/trunk/Resources/Growl.framework/Headers/GrowlApplicationBridge-Carbon.h
+END
+GrowlDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/kmng/!svn/ver/383/trunk/Resources/Growl.framework/Headers/GrowlDefines.h
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/kmng/!svn/ver/405/trunk/Sources/Views
+END
+PointView.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/383/trunk/Sources/Views/PointView.m
+END
+MapViewAreaView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/383/trunk/Sources/Views/MapViewAreaView.h
+END
+MapControlItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/383/trunk/Sources/Views/MapControlItem.h
+END
+Trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/383/trunk/Sources/Views/Trace.h
+END
+MapControlPanel.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/383/trunk/Sources/Views/MapControlPanel.h
+END
+SpinChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/383/trunk/Sources/Views/SpinChannel.h
+END
+MapControlItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/405/trunk/Sources/Views/MapControlItem.m
+END
+Trace.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/383/trunk/Sources/Views/Trace.m
+END
+MapControlPanel.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/383/trunk/Sources/Views/MapControlPanel.m
+END
+MapViewPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/383/trunk/Sources/Views/MapViewPrivate.h
+END
+SpinChannel.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/383/trunk/Sources/Views/SpinChannel.m
+END
+MapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/383/trunk/Sources/Views/MapView.h
+END
+MapViewPrivate.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/383/trunk/Sources/Views/MapViewPrivate.m
+END
+MapView.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/402/trunk/Sources/Views/MapView.m
+END
+MapViewAreaView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Views/MapViewAreaView.mm
+END
+NetView.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/383/trunk/Sources/Views/NetView.h
+END
+PointView.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/383/trunk/Sources/Views/PointView.h
+END
+NetView.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/383/trunk/Sources/Views/NetView.m
+END

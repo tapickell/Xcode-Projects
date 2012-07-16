@@ -1,0 +1,80 @@
+TiBountyHunter
+v7
+r1
+cCheck dependencies
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/FugitiveDetailViewController.xib
+c000000004AE656E9000000000000673F
+t1256609513
+s26431
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/MainWindow.xib
+c000000004AE656E900000000000085FC
+t1256609513
+s34300
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app/Contents/Resources/FugitiveDetailViewController.nib
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app/Contents/Resources/iBountyHunter.sqlite
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app/Contents/Resources/ibountyicon.png
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBountyHunter.sqlite
+c000000004AE656E90000000000002800
+t1256609513
+s10240
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/ibountyicon.png
+c000000004AE656E90000000000000A0E
+t1256609513
+s2574
+
+NiBountyHunter-Info.plist
+c000000004AE656E9000000000000039C
+t1256609513
+s924
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321334931#321334931#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.2'1(4@60"error: There is no SDK with the name or path 'iphoneos3.1.2'321334931#18446744073709551615#0#0(1@0"0(0#1#0"32651513917735028#0"0#
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/FugitiveDetailViewController.xib
+r0
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/MainWindow.xib
+r0
+
+CCpResource build/Debug/iBountyHunter.app/Contents/Resources/iBountyHunter.sqlite iBountyHunter.sqlite
+r0
+
+CCpResource build/Debug/iBountyHunter.app/Contents/Resources/ibountyicon.png ibountyicon.png
+r0
+
+CProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app/Contents/Info.plist iBountyHunter-Info.plist
+r0
+
+CTouch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug/iBountyHunter.app
+r0
+

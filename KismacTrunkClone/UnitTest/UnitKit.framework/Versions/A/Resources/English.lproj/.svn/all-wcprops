@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/kmng/!svn/ver/383/trunk/UnitTest/UnitKit.framework/Versions/A/Resources/English.lproj
+END
+InfoPlist.strings
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kmng/!svn/ver/320/trunk/UnitTest/UnitKit.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+END
+UKRunner.strings
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kmng/!svn/ver/383/trunk/UnitTest/UnitKit.framework/Versions/A/Resources/English.lproj/UKRunner.strings
+END
+UKTestHandler.strings
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kmng/!svn/ver/383/trunk/UnitTest/UnitKit.framework/Versions/A/Resources/English.lproj/UKTestHandler.strings
+END

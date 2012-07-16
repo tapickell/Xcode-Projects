@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/kmng/!svn/ver/383/trunk/UnitTest/UnitKit.framework
+END
+UnitKit
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/320/trunk/UnitTest/UnitKit.framework/UnitKit
+END
+Resources
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/320/trunk/UnitTest/UnitKit.framework/Resources
+END
+Headers
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/320/trunk/UnitTest/UnitKit.framework/Headers
+END

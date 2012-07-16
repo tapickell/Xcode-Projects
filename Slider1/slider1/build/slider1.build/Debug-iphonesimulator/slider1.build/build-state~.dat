@@ -1,0 +1,219 @@
+Tslider1
+v7
+r0
+t317669458.521368
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/Info.plist slider1-Info.plist
+cCompileXIB /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MainWindow.xib
+cProcessPCH /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slider1_Prefix-gqamukseqozlkpbhpoeuopsvouhm/slider1_Prefix.pch.gch slider1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/main.o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/slider1AppDelegate.o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/Classes/slider1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/MyController.o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/Classes/slider1AppDelegate.h
+c000000004D3EF96C0000000000000147
+t1295972716
+s327
+i<UIKit/UIKit.h>
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/Classes/slider1AppDelegate.m
+c000000004D3EF96C00000000000009C9
+t1295972716
+s2505
+i"slider1AppDelegate.h"
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MainWindow.xib
+c000000004D3EF96C0000000000002108
+t1295972716
+s8456
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.h
+c000000004D3F08CF00000000000001AD
+t1295976655
+s429
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m
+c000000004D3EFE3A00000000000000EC
+t1295973946
+s236
+i"MyController.h"
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app
+t2
+s0
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app.dSYM
+t2
+s0
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/Info.plist
+t1295976656
+s591
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/MainWindow.nib
+t1295976656
+s1531
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/PkgInfo
+t1295976656
+s8
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/slider1
+t2
+s0
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/MyController.o
+t2
+s0
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/main.o
+t1295976658
+s6412
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/slider1.LinkFileList
+c000000004D3F08CF00000000000001BD
+t1295976655
+s445
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/slider1AppDelegate.o
+t1295976658
+s46368
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/main.m
+c000000004D3EF96C0000000000000169
+t1295972716
+s361
+i<UIKit/UIKit.h>
+
+N/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/slider1_Prefix.pch
+c000000004D3EF96C00000000000000B7
+t1295972716
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slider1_Prefix-gqamukseqozlkpbhpoeuopsvouhm/slider1_Prefix.pch.gch
+t1295976658
+s15215632
+
+Nslider1-Info.plist
+c000000004D3EF96C000000000000038D
+t1295972716
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317669455#317669456#0(0"0(0#1#0"3419194681344878080#0"0#
+
+CCompileC build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/MyController.o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317669458.465045
+e317669458.521277
+r0
+xCompileC
+xbuild/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/MyController.o
+x/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m:8:
+o/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.h:15: error: expected ';' before '{' token
+lSLF07#2@80"Compile /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m317669458#317669458#0(212"In file included from /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m:8:/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.h:15: error: expected ';' before '{' token1(4@29"Expected ';' before '{' token317669458#98#114#2(7@94"In file included from /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m317669458#18446744073709551615#0#0(6@72"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m317666746#8#0#8#0#0"0(13@105"Expected ';' before '{' token in /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.h317669458#18446744073709551615#0#0(6@72"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.h317669455#15#0#15#0#0"0(6@72"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.h317669455#15#0#15#0#19"expected * before *0(0#0#72"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m8615180800#2211"    cd /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-generated-files.hmap -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-own-target-headers.hmap -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-all-target-headers.hmap -iquote /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-project-headers.hmap -F/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/include -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/DerivedSources/i386 -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/DerivedSources -include /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slider1_Prefix-gqamukseqozlkpbhpoeuopsvouhm/slider1_Prefix.pch -c /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MyController.m -o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/MyController.o1#
+
+CCompileC build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/main.o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317669458.284498
+e317669458.464956
+r1
+xCompileC
+xbuild/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/main.o
+x/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/main.m317669458#317669458#0(0"0(0#0#64"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/main.m8614401696#2195"    cd /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-generated-files.hmap -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-own-target-headers.hmap -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-all-target-headers.hmap -iquote /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-project-headers.hmap -F/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/include -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/DerivedSources/i386 -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/DerivedSources -include /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slider1_Prefix-gqamukseqozlkpbhpoeuopsvouhm/slider1_Prefix.pch -c /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/main.m -o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/main.o0#
+
+CCompileC build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/slider1AppDelegate.o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/Classes/slider1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317669458.286584
+e317669458.482652
+r1
+xCompileC
+xbuild/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/slider1AppDelegate.o
+x/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/Classes/slider1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/Classes/slider1AppDelegate.m317669458#317669458#0(0"0(0#0#86"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/Classes/slider1AppDelegate.m8604145440#2231"    cd /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-generated-files.hmap -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-own-target-headers.hmap -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-all-target-headers.hmap -iquote /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-project-headers.hmap -F/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/include -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/DerivedSources/i386 -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/DerivedSources -include /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slider1_Prefix-gqamukseqozlkpbhpoeuopsvouhm/slider1_Prefix.pch -c /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/Classes/slider1AppDelegate.m -o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/Objects-normal/i386/slider1AppDelegate.o0#
+
+CCompileXIB /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MainWindow.xib
+s317669456.098584
+e317669456.855806
+r1
+xCompileXIB
+x/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317669456#317669456#0(0"0(0#0#72"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MainWindow.xib23644099913777252#699"    cd /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/MainWindow.nib /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/MainWindow.xib --sdk /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app.dSYM /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/slider1
+r0
+
+CLd /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/slider1 normal i386
+r0
+
+CProcessInfoPlistFile /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/Info.plist slider1-Info.plist
+s317669456.050892
+e317669456.098488
+r1
+xProcessInfoPlistFile
+x/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/Info.plist
+xslider1-Info.plist
+lSLF07#2@26"Process slider1-Info.plist317669456#317669456#0(0"0(0#0#76"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/slider1-Info.plist32369824192659568#572"    cd /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility slider1-Info.plist -genpkginfo /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app/Info.plist0#
+
+CProcessPCH /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slider1_Prefix-gqamukseqozlkpbhpoeuopsvouhm/slider1_Prefix.pch.gch slider1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317669456.856028
+e317669458.284238
+r1
+xProcessPCH
+x/var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slider1_Prefix-gqamukseqozlkpbhpoeuopsvouhm/slider1_Prefix.pch.gch
+xslider1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile slider1_Prefix.pch317669456#317669458#0(0"0(0#0#76"/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/slider1_Prefix.pch8615072576#2068"    cd /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-generated-files.hmap -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-own-target-headers.hmap -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-all-target-headers.hmap -iquote /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/slider1-project-headers.hmap -F/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/include -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/DerivedSources/i386 -I/Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/slider1.build/Debug-iphonesimulator/slider1.build/DerivedSources -c /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/slider1_Prefix.pch -o /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/slider1_Prefix-gqamukseqozlkpbhpoeuopsvouhm/slider1_Prefix.pch.gch0#
+
+CTouch /Volumes/XtraSpace/ToddsStuff/Programming/Slider1/slider1/build/Debug-iphonesimulator/slider1.app
+r0
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/383/trunk/Sources/ScriptingCore
+END
+ScriptController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/kmng/!svn/ver/383/trunk/Sources/ScriptingCore/ScriptController.m
+END
+ScriptingEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/kmng/!svn/ver/383/trunk/Sources/ScriptingCore/ScriptingEngine.m
+END
+ScriptAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/kmng/!svn/ver/383/trunk/Sources/ScriptingCore/ScriptAdditions.h
+END
+ScriptAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/kmng/!svn/ver/383/trunk/Sources/ScriptingCore/ScriptAdditions.m
+END
+ScriptController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/kmng/!svn/ver/383/trunk/Sources/ScriptingCore/ScriptController.h
+END
+ScriptingEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/kmng/!svn/ver/383/trunk/Sources/ScriptingCore/ScriptingEngine.h
+END

@@ -1,0 +1,328 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* iBountyHunterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* iBountyHunterAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D801B40F44B63D00FB423F /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 28D801B30F44B63D00FB423F /* CoreData.framework */; };
+		BC5624CB1094886A004C92B7 /* iBountyHunter.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BC5624CA1094886A004C92B7 /* iBountyHunter.xcdatamodeld */; };
+		BCBD3A9010949274004ECD85 /* CapturedPhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCBD3A8E10949274004ECD85 /* CapturedPhotoViewController.m */; };
+		BCBD3A9110949274004ECD85 /* CapturedPhotoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCBD3A8F10949274004ECD85 /* CapturedPhotoViewController.xib */; };
+		BCBD3B051094F510004ECD85 /* Fugitive.m in Sources */ = {isa = PBXBuildFile; fileRef = BCBD3B041094F510004ECD85 /* Fugitive.m */; };
+		BCBD3B6E1094F672004ECD85 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCBD3B6D1094F672004ECD85 /* CoreLocation.framework */; };
+		BCBD3B961094FB55004ECD85 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCBD3B951094FB55004ECD85 /* MapKit.framework */; };
+		BCFA0B6D1093DC5F009C4DA8 /* ibountyicon.png in Resources */ = {isa = PBXBuildFile; fileRef = BCFA0B6C1093DC5F009C4DA8 /* ibountyicon.png */; };
+		BCFA0B701093DDBC009C4DA8 /* FugitiveListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFA0B6F1093DDBC009C4DA8 /* FugitiveListViewController.m */; };
+		BCFA0B731093DDD0009C4DA8 /* CapturedListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFA0B721093DDD0009C4DA8 /* CapturedListViewController.m */; };
+		BCFA0BBB1093F55D009C4DA8 /* iBountyHunter.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = BCFA0BBA1093F55D009C4DA8 /* iBountyHunter.sqlite */; };
+		BCFA0BED1093F86C009C4DA8 /* FugitiveDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFA0BEB1093F86C009C4DA8 /* FugitiveDetailViewController.m */; };
+		BCFA0BEE1093F86C009C4DA8 /* FugitiveDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BCFA0BEC1093F86C009C4DA8 /* FugitiveDetailViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* iBountyHunterAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iBountyHunterAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* iBountyHunterAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iBountyHunterAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* iBountyHunter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iBountyHunter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28C3AD890F43EF2300507BA6 /* iBountyHunter.xcdatamodel */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.xcdatamodel; path = iBountyHunter.xcdatamodel; sourceTree = "<group>"; };
+		28D801B30F44B63D00FB423F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* iBountyHunter_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iBountyHunter_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* iBountyHunter-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "iBountyHunter-Info.plist"; sourceTree = "<group>"; };
+		BC5624CC1094886A004C92B7 /* iBountyHunter 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "iBountyHunter 2.xcdatamodel"; sourceTree = "<group>"; };
+		BCBD3A8D10949274004ECD85 /* CapturedPhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CapturedPhotoViewController.h; sourceTree = "<group>"; };
+		BCBD3A8E10949274004ECD85 /* CapturedPhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CapturedPhotoViewController.m; sourceTree = "<group>"; };
+		BCBD3A8F10949274004ECD85 /* CapturedPhotoViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CapturedPhotoViewController.xib; path = Classes/CapturedPhotoViewController.xib; sourceTree = "<group>"; };
+		BCBD3AB11094935A004ECD85 /* iBountyHunter 3.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "iBountyHunter 3.xcdatamodel"; sourceTree = "<group>"; };
+		BCBD3AF91094F4B6004ECD85 /* iBountyHunter 4.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "iBountyHunter 4.xcdatamodel"; sourceTree = "<group>"; };
+		BCBD3B031094F510004ECD85 /* Fugitive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fugitive.h; sourceTree = "<group>"; };
+		BCBD3B041094F510004ECD85 /* Fugitive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fugitive.m; sourceTree = "<group>"; };
+		BCBD3B6D1094F672004ECD85 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		BCBD3B951094FB55004ECD85 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		BCFA0B6C1093DC5F009C4DA8 /* ibountyicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ibountyicon.png; sourceTree = "<group>"; };
+		BCFA0B6E1093DDBC009C4DA8 /* FugitiveListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FugitiveListViewController.h; sourceTree = "<group>"; };
+		BCFA0B6F1093DDBC009C4DA8 /* FugitiveListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FugitiveListViewController.m; sourceTree = "<group>"; };
+		BCFA0B711093DDD0009C4DA8 /* CapturedListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CapturedListViewController.h; sourceTree = "<group>"; };
+		BCFA0B721093DDD0009C4DA8 /* CapturedListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CapturedListViewController.m; sourceTree = "<group>"; };
+		BCFA0BBA1093F55D009C4DA8 /* iBountyHunter.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = iBountyHunter.sqlite; sourceTree = "<group>"; };
+		BCFA0BEA1093F86C009C4DA8 /* FugitiveDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FugitiveDetailViewController.h; sourceTree = "<group>"; };
+		BCFA0BEB1093F86C009C4DA8 /* FugitiveDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FugitiveDetailViewController.m; sourceTree = "<group>"; };
+		BCFA0BEC1093F86C009C4DA8 /* FugitiveDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = FugitiveDetailViewController.xib; path = Classes/FugitiveDetailViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				28D801B40F44B63D00FB423F /* CoreData.framework in Frameworks */,
+				BCBD3B6E1094F672004ECD85 /* CoreLocation.framework in Frameworks */,
+				BCBD3B961094FB55004ECD85 /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* iBountyHunterAppDelegate.h */,
+				1D3623250D0F684500981E51 /* iBountyHunterAppDelegate.m */,
+				BCFA0B6E1093DDBC009C4DA8 /* FugitiveListViewController.h */,
+				BCFA0B6F1093DDBC009C4DA8 /* FugitiveListViewController.m */,
+				BCFA0B711093DDD0009C4DA8 /* CapturedListViewController.h */,
+				BCFA0B721093DDD0009C4DA8 /* CapturedListViewController.m */,
+				BCBD3B031094F510004ECD85 /* Fugitive.h */,
+				BCBD3B041094F510004ECD85 /* Fugitive.m */,
+				BCFA0BEA1093F86C009C4DA8 /* FugitiveDetailViewController.h */,
+				BCFA0BEB1093F86C009C4DA8 /* FugitiveDetailViewController.m */,
+				BCBD3A8D10949274004ECD85 /* CapturedPhotoViewController.h */,
+				BCBD3A8E10949274004ECD85 /* CapturedPhotoViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* iBountyHunter.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* iBountyHunter_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BCBD3A8F10949274004ECD85 /* CapturedPhotoViewController.xib */,
+				BCFA0BEC1093F86C009C4DA8 /* FugitiveDetailViewController.xib */,
+				BCFA0BBA1093F55D009C4DA8 /* iBountyHunter.sqlite */,
+				BCFA0B6C1093DC5F009C4DA8 /* ibountyicon.png */,
+				BC5624CA1094886A004C92B7 /* iBountyHunter.xcdatamodeld */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* iBountyHunter-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BCBD3B951094FB55004ECD85 /* MapKit.framework */,
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+				28D801B30F44B63D00FB423F /* CoreData.framework */,
+				BCBD3B6D1094F672004ECD85 /* CoreLocation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* iBountyHunter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iBountyHunter" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iBountyHunter;
+			productName = iBountyHunter;
+			productReference = 1D6058910D05DD3D006BFB54 /* iBountyHunter.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iBountyHunter" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* iBountyHunter */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				BCFA0B6D1093DC5F009C4DA8 /* ibountyicon.png in Resources */,
+				BCFA0BBB1093F55D009C4DA8 /* iBountyHunter.sqlite in Resources */,
+				BCFA0BEE1093F86C009C4DA8 /* FugitiveDetailViewController.xib in Resources */,
+				BCBD3A9110949274004ECD85 /* CapturedPhotoViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* iBountyHunterAppDelegate.m in Sources */,
+				BC5624CB1094886A004C92B7 /* iBountyHunter.xcdatamodeld in Sources */,
+				BCFA0B701093DDBC009C4DA8 /* FugitiveListViewController.m in Sources */,
+				BCFA0B731093DDD0009C4DA8 /* CapturedListViewController.m in Sources */,
+				BCFA0BED1093F86C009C4DA8 /* FugitiveDetailViewController.m in Sources */,
+				BCBD3A9010949274004ECD85 /* CapturedPhotoViewController.m in Sources */,
+				BCBD3B051094F510004ECD85 /* Fugitive.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iBountyHunter_Prefix.pch;
+				INFOPLIST_FILE = "iBountyHunter-Info.plist";
+				PRODUCT_NAME = iBountyHunter;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"/Volumes/Skiiing2/CD/ViewBased/Unknown Path/System/Library/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = iBountyHunter_Prefix.pch;
+				INFOPLIST_FILE = "iBountyHunter-Info.plist";
+				PRODUCT_NAME = iBountyHunter;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.1.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iBountyHunter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "iBountyHunter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		BC5624CA1094886A004C92B7 /* iBountyHunter.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				28C3AD890F43EF2300507BA6 /* iBountyHunter.xcdatamodel */,
+				BC5624CC1094886A004C92B7 /* iBountyHunter 2.xcdatamodel */,
+				BCBD3AB11094935A004ECD85 /* iBountyHunter 3.xcdatamodel */,
+				BCBD3AF91094F4B6004ECD85 /* iBountyHunter 4.xcdatamodel */,
+			);
+			currentVersion = BCBD3AF91094F4B6004ECD85 /* iBountyHunter 4.xcdatamodel */;
+			path = iBountyHunter.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

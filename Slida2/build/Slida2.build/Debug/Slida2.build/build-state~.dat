@@ -1,0 +1,44 @@
+TSlida2
+v7
+r1
+cCheck dependencies
+
+N/Users/todd/Documents/Slida2/MainWindow.xib
+c000000004C3F0F4C0000000000006274
+t1279201100
+s25204
+
+N/Users/todd/Documents/Slida2/build/Debug/Slida2.app
+t2
+s0
+
+N/Users/todd/Documents/Slida2/build/Debug/Slida2.app/Contents/Info.plist
+t2
+s0
+
+N/Users/todd/Documents/Slida2/build/Debug/Slida2.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/todd/Documents/Slida2/build/Debug/Slida2.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NSlida2-Info.plist
+c000000004C3F0908000000000000038D
+t1279199496
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313377618#313377618#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'313377618#18446744073709551615#0#0(1@0"0(0#1#0"3419194681344878080#0"0#
+
+CCompileXIB /Users/todd/Documents/Slida2/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/todd/Documents/Slida2/build/Debug/Slida2.app/Contents/Info.plist Slida2-Info.plist
+r0
+
+CTouch /Users/todd/Documents/Slida2/build/Debug/Slida2.app
+r0
+

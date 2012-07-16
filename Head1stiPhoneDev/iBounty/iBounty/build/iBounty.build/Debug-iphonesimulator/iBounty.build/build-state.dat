@@ -1,0 +1,285 @@
+TiBounty
+v7
+r0
+t321334739.956882
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/Info.plist iBounty-Info.plist
+cCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/MainWindow.xib
+cDataModelVersionCompile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/iBounty.momd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty.xcdatamodeld
+cDistributed-CompileC build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/main.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/iBountyAppDelegate.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/iBountyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/captured.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/fugitives.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004D37CF020000000000000110
+t1295503106
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.h
+c000000004D76E7C000000000000000D1
+t1299638208
+s209
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m
+c000000004D76E7C20000000000001256
+t1299638210
+s4694
+i"captured.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.h
+c000000004D76E7D000000000000000D3
+t1299638224
+s211
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m
+c000000004D76E7D00000000000001259
+t1299638224
+s4697
+i"fugitives.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/iBountyAppDelegate.h
+c000000004D76ED0C00000000000003CD
+t1299639564
+s973
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/iBountyAppDelegate.m
+c000000004D76F5830000000000001E2D
+t1299641731
+s7725
+i"iBountyAppDelegate.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/MainWindow.xib
+c000000004D76F646000000000000923A
+t1299641926
+s37434
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app
+t1299641936
+s264
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app.dSYM
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/Info.plist
+t1299641735
+s634
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/MainWindow.nib
+t1299641936
+s4996
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/PkgInfo
+t1299641735
+s8
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/iBounty
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/iBounty.momd
+t1299641738
+s264
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/captured.o
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/fugitives.o
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/iBounty.LinkFileList
+c000000004D76F5870000000000000273
+t1299641735
+s627
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/iBountyAppDelegate.o
+t1299641739
+s62148
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/main.o
+t1299641739
+s6360
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty.xcdatamodeld
+c000000004D76E4470000000000000108
+t1299637319
+s264
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty_Prefix.pch
+c000000004D76E4480000000000000162
+t1299637320
+s354
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/main.m
+c000000004D76E4480000000000000161
+t1299637320
+s353
+i<UIKit/UIKit.h>
+
+NiBounty-Info.plist
+c000000004D76E752000000000000039C
+t1299638098
+s924
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321334736#321334736#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/MainWindow.xib
+s321334736.352908
+e321334737.146363
+r1
+xCompileXIB
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321334736#321334737#0(0"0(0#0#82"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/MainWindow.xib8614826432#657"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/MainWindow.nib /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CDataModelVersionCompile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/iBounty.momd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty.xcdatamodeld
+s321334537.118351
+e321334538.598365
+r1
+xDataModelVersionCompile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/iBounty.momd
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty.xcdatamodeld
+lSLF07#2@97"DataModelVersionCompile build/Debug-iphonesimulator/iBounty.app/iBounty.momd iBounty.xcdatamodeld321334537#321334538#0(0"0(0#0#88"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty.xcdatamodeld8612853184#473"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty.xcdatamodeld /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/iBounty.momd0#
+
+CDistributed-CompileC build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/captured.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321334737.146747
+e321334739.910521
+r0
+xDistributed-CompileC
+xbuild/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/captured.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+odistcc[13117] ERROR: compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m on localhost:3632/2 failed
+odistcc[13117] (dcc_build_somewhere) Warning: remote compilation of '/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m' failed, retrying locally
+odistcc[13117] Warning: failed to distribute /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m to localhost:3632/2, running locally instead
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m: In function '-[captured numberOfSectionsInTableView:]':
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m:74: error: expected expression before '<' token
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m:75: warning: control reaches end of non-void function
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m: In function '-[captured tableView:numberOfRowsInSection:]':
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m:80: error: expected expression before '<' token
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m:81: warning: control reaches end of non-void function
+odistcc[13117] ERROR: compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m on localhost failed
+lSLF07#2@112"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m321334737#321334739#0(1480"distcc[13117] ERROR: compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m on localhost:3632/2 faileddistcc[13117] (dcc_build_somewhere) Warning: remote compilation of '/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m' failed, retrying locallydistcc[13117] Warning: failed to distribute /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m to localhost:3632/2, running locally instead/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m: In function '-[captured numberOfSectionsInTableView:]':/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m:74: error: expected expression before '<' token/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m:75: warning: control reaches end of non-void function/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m: In function '-[captured tableView:numberOfRowsInSection:]':/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m:80: error: expected expression before '<' token/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m:81: warning: control reaches end of non-void functiondistcc[13117] ERROR: compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m on localhost failed4(4@36"Expected expression before '<' token321334738#644#135#0(6@86"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m321331010#74#0#74#0#19"expected * before *0(22@40"Control reaches end of non-void function321334738#779#141#0(6@86"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m321331010#75#0#75#0#40"control reaches end of non-void function0(4@36"Expected expression before '<' token321334738#1068#135#0(6@86"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m321331010#80#0#80#0#19"expected * before *0(22@40"Control reaches end of non-void function321334738#1203#141#0(6@86"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m321331010#81#0#81#0#40"control reaches end of non-void function0(0#0#86"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m8610967552#2381"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/captured.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/captured.o1#
+
+CDistributed-CompileC build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/fugitives.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321334737.157508
+e321334739.956759
+r0
+xDistributed-CompileC
+xbuild/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/fugitives.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+odistcc[13118] ERROR: compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m on localhost:3632/2 failed
+odistcc[13118] (dcc_build_somewhere) Warning: remote compilation of '/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m' failed, retrying locally
+odistcc[13118] Warning: failed to distribute /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m to localhost:3632/2, running locally instead
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m: In function '-[fugitives numberOfSectionsInTableView:]':
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m:74: error: expected expression before '<' token
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m:75: warning: control reaches end of non-void function
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m: In function '-[fugitives tableView:numberOfRowsInSection:]':
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m:80: error: expected expression before '<' token
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m:81: warning: control reaches end of non-void function
+odistcc[13118] ERROR: compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m on localhost failed
+lSLF07#2@113"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m321334737#321334739#0(1492"distcc[13118] ERROR: compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m on localhost:3632/2 faileddistcc[13118] (dcc_build_somewhere) Warning: remote compilation of '/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m' failed, retrying locallydistcc[13118] Warning: failed to distribute /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m to localhost:3632/2, running locally instead/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m: In function '-[fugitives numberOfSectionsInTableView:]':/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m:74: error: expected expression before '<' token/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m:75: warning: control reaches end of non-void function/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m: In function '-[fugitives tableView:numberOfRowsInSection:]':/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m:80: error: expected expression before '<' token/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m:81: warning: control reaches end of non-void functiondistcc[13118] ERROR: compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m on localhost failed4(4@36"Expected expression before '<' token321334738#649#136#0(6@87"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m321331024#74#0#74#0#19"expected * before *0(22@40"Control reaches end of non-void function321334738#785#142#0(6@87"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m321331024#75#0#75#0#40"control reaches end of non-void function0(4@36"Expected expression before '<' token321334738#1077#136#0(6@87"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m321331024#80#0#80#0#19"expected * before *0(22@40"Control reaches end of non-void function321334738#1213#142#0(6@87"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m321331024#81#0#81#0#40"control reaches end of non-void function0(0#0#87"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m8614650496#2383"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/fugitives.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/fugitives.o1#
+
+CDistributed-CompileC build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/iBountyAppDelegate.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/iBountyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321334538.598494
+e321334539.587087
+r1
+xDistributed-CompileC
+xbuild/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/iBountyAppDelegate.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/iBountyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/iBountyAppDelegate.m321334538#321334539#0(0"0(0#0#96"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/iBountyAppDelegate.m8612079232#2401"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/Classes/iBountyAppDelegate.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/iBountyAppDelegate.o0#
+
+CDistributed-CompileC build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/main.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321334537.121124
+e321334539.470996
+r1
+xDistributed-CompileC
+xbuild/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/main.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/main.m321334537#321334539#0(0"0(0#0#74"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/main.m8612662272#2365"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/iBounty-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/main.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/iBounty.build/Debug-iphonesimulator/iBounty.build/Objects-normal/i386/main.o0#
+
+CGenerateDSYMFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app.dSYM /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/iBounty
+r0
+
+CLd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/iBounty normal i386
+r0
+
+CProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/Info.plist iBounty-Info.plist
+s321334535.056445
+e321334535.671346
+r1
+xProcessInfoPlistFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/Info.plist
+xiBounty-Info.plist
+lSLF07#2@26"Process iBounty-Info.plist321334535#321334535#0(0"0(0#0#86"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/iBounty-Info.plist32370056120631408#566"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iBounty-Info.plist -genpkginfo /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app/Info.plist0#
+
+CTouch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iBounty/iBounty/build/Debug-iphonesimulator/iBounty.app
+r0
+

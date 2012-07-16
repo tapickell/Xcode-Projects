@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/402/trunk/Sources/Preferences/PreferencePanes
+END
+PrefsGPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsGPS.h
+END
+PrefsFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsFilter.m
+END
+PrefsDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsDriver.h
+END
+PrefsGPS.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kmng/!svn/ver/402/trunk/Sources/Preferences/PreferencePanes/PrefsGPS.m
+END
+PrefsDriver.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/402/trunk/Sources/Preferences/PreferencePanes/PrefsDriver.m
+END
+PrefsScanning.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsScanning.h
+END
+PrefsAdvanced.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsAdvanced.h
+END
+PrefsScanning.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsScanning.m
+END
+PrefsSleep.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsSleep.h
+END
+PrefsAdvanced.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsAdvanced.m
+END
+PrefsSounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsSounds.h
+END
+PrefsMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsMap.h
+END
+PrefsSleep.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsSleep.m
+END
+PrefsTraffic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsTraffic.h
+END
+PrefsClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsClient.h
+END
+PrefsSounds.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/402/trunk/Sources/Preferences/PreferencePanes/PrefsSounds.m
+END
+PrefsMap.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsMap.m
+END
+PrefsClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsClient.m
+END
+PrefsTraffic.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsTraffic.m
+END
+PrefsFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/383/trunk/Sources/Preferences/PreferencePanes/PrefsFilter.h
+END

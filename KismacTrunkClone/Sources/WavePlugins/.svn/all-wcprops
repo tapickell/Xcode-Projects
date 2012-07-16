@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/kmng/!svn/ver/402/trunk/Sources/WavePlugins
+END
+WavePluginMidi.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/402/trunk/Sources/WavePlugins/WavePluginMidi.m
+END
+WavePluginDeauthentication.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePluginDeauthentication.h
+END
+WavePcapDump.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePcapDump.h
+END
+WavePluginDeauthentication.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePluginDeauthentication.m
+END
+WavePcapDump.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePcapDump.m
+END
+WavePluginAuthenticationFlood.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePluginAuthenticationFlood.h
+END
+WavePluginAuthenticationFlood.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePluginAuthenticationFlood.m
+END
+WavePluginInjecting.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePluginInjecting.h
+END
+WavePluginInjectionProbe.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kmng/!svn/ver/402/trunk/Sources/WavePlugins/WavePluginInjectionProbe.h
+END
+WavePluginBeaconFlood.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePluginBeaconFlood.h
+END
+WavePlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePlugin.h
+END
+WavePluginInjecting.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePluginInjecting.m
+END
+WavePluginInjectionProbe.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/kmng/!svn/ver/402/trunk/Sources/WavePlugins/WavePluginInjectionProbe.m
+END
+WavePluginBeaconFlood.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/kmng/!svn/ver/402/trunk/Sources/WavePlugins/WavePluginBeaconFlood.m
+END
+WavePluginMidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePluginMidi.h
+END
+WavePlugin.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/WavePlugins/WavePlugin.m
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/kmng/!svn/ver/383/trunk/Sources/Tests
+END
+WaveNetTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/383/trunk/Sources/Tests/WaveNetTest.m
+END
+WavePacketTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/383/trunk/Sources/Tests/WavePacketTest.m
+END
+WaveHelperTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/383/trunk/Sources/Tests/WaveHelperTest.m
+END

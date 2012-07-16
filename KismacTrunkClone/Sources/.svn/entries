@@ -1,0 +1,76 @@
+10
+
+dir
+409
+http://svn.kismac-ng.org/kmng/trunk/Sources
+http://svn.kismac-ng.org/kmng
+
+
+
+2011-04-20T00:07:02.549459Z
+407
+gkruse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ab0f578b-8a4a-0410-bf01-fbd21c03f65b
+
+Crypto
+dir
+
+Controller
+dir
+
+PacketGeneration
+dir
+
+WaveSpectrumDrivers
+dir
+
+Core
+dir
+
+Driver
+dir
+
+Views
+dir
+
+WindowControllers
+dir
+
+not public
+dir
+
+Preferences
+dir
+
+WaveDrivers
+dir
+
+Tests
+dir
+
+WavePlugins
+dir
+
+3rd Party
+dir
+
+ScriptingCore
+dir
+
+Support
+dir
+

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/kmng/!svn/ver/408/trunk/Subprojects/BIGL
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/version.plist
+END
+BIGLGraphView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLGraphView.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/Info.plist
+END
+BIGLGraphView.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLGraphView.m
+END
+BIGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLView.h
+END
+BIGLImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLImageView.h
+END
+BIGLPolyView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLPolyView.h
+END
+BIGL_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGL_Prefix.pch
+END
+BIGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/401/trunk/Subprojects/BIGL/BIGLView.m
+END
+BIGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGL.h
+END
+BIGLCocoaView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLCocoaView.h
+END
+BIGLTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLTextView.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/main.c
+END
+BIGLImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/401/trunk/Subprojects/BIGL/BIGLImageView.m
+END
+BIGLLineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLLineView.h
+END
+BIGLPolyView.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLPolyView.m
+END
+BIGLSubView.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLSubView.h
+END
+BIGLCocoaView.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLCocoaView.m
+END
+BIGLTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/401/trunk/Subprojects/BIGL/BIGLTextView.m
+END
+BIGLLineView.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLLineView.m
+END
+BIGLSubView.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/129/trunk/Subprojects/BIGL/BIGLSubView.m
+END

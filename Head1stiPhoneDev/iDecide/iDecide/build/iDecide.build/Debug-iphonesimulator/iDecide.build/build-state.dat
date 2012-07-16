@@ -1,0 +1,256 @@
+TiDecide
+v7
+r0
+t318915208.910537
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist iDecide-Info.plist
+cCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/MainWindow.xib
+cCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecideViewController.xib
+cProcessPCH /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-hfpamhmmhooligdzdmgcxeudibjq/iDecide_Prefix.pch.gch iDecide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide normal i386
+cGenerateDSYMFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+cTouch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideAppDelegate.h
+c000000004D51F0C400000000000001DE
+t1297215684
+s478
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideAppDelegate.m
+c000000004D51F0C50000000000000A8A
+t1297215685
+s2698
+i"iDecideAppDelegate.h"
+i"iDecideViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideViewController.h
+c000000004D52077C000000000000016B
+t1297221500
+s363
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideViewController.m
+c000000004D5207F70000000000000636
+t1297221623
+s1590
+i"iDecideViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/MainWindow.xib
+c000000004D51F0C50000000000004E29
+t1297215685
+s20009
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app
+t1297222408
+s238
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM
+t1297222306
+s102
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist
+t1297222304
+s591
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/MainWindow.nib
+t1297222305
+s1681
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/PkgInfo
+t1297222304
+s8
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+t1297222306
+s17868
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecideViewController.nib
+t1297222408
+s3411
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecide.LinkFileList
+c000000004D520AA000000000000001E4
+t1297222304
+s484
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o
+t1297222306
+s48020
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o
+t1297222306
+s37004
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o
+t1297222306
+s6432
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecideViewController.xib
+c000000004D520AFA00000000000051E5
+t1297222394
+s20965
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecide_Prefix.pch
+c000000004D51F0C500000000000000B7
+t1297215685
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/main.m
+c000000004D51F0C50000000000000168
+t1297215685
+s360
+i<UIKit/UIKit.h>
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-hfpamhmmhooligdzdmgcxeudibjq/iDecide_Prefix.pch.gch
+t1297222306
+s15215632
+
+NiDecide-Info.plist
+c000000004D51F0C5000000000000038D
+t1297215685
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318915208#318915208#0(0"0(0#1#0"8620409760#0"0#
+
+CCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318915106.476156
+e318915106.609691
+r1
+xCompileC
+xbuild/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideAppDelegate.m318915106#318915106#0(0"0(0#0#96"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideAppDelegate.m8620612896#2341"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-project-headers.hmap -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources -include /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-hfpamhmmhooligdzdmgcxeudibjq/iDecide_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideAppDelegate.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideAppDelegate.o0#
+
+CCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318915106.588646
+e318915106.657198
+r1
+xCompileC
+xbuild/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideViewController.m318915106#318915106#0(0"0(0#0#99"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideViewController.m8619949376#2347"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-project-headers.hmap -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources -include /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-hfpamhmmhooligdzdmgcxeudibjq/iDecide_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/Classes/iDecideViewController.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecideViewController.o0#
+
+CCompileC build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318915106.474979
+e318915106.588555
+r1
+xCompileC
+xbuild/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/main.m318915106#318915106#0(0"0(0#0#74"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/main.m8620641728#2305"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-project-headers.hmap -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources -include /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-hfpamhmmhooligdzdmgcxeudibjq/iDecide_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/main.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/MainWindow.xib
+s318915104.806661
+e318915105.216825
+r1
+xCompileXIB
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318915104#318915105#0(0"0(0#0#82"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/MainWindow.xib8612560480#729"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/MainWindow.nib /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/MainWindow.xib --sdk /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecideViewController.xib
+s318915208.306084
+e318915208.905633
+r1
+xCompileXIB
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecideViewController.xib
+lSLF07#2@36"CompileXIB iDecideViewController.xib318915208#318915208#0(0"0(0#0#93"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecideViewController.xib5794290433687576576#751"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecideViewController.nib /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecideViewController.xib --sdk /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+s318915106.830994
+e318915106.848032
+r1
+xGenerateDSYMFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/iDecide.app.dSYM build/Debug-iphonesimulator/iDecide.app/iDecide318915106#318915106#0(0"0(0#0#115"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide8620411648#524"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/dsymutil /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app.dSYM0#
+
+CLd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide normal i386
+s318915106.657290
+e318915106.830905
+r1
+xLd
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide
+xnormal
+xi386
+lSLF07#2@120"Link /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide318915106#318915106#0(0"0(0#0#0"8620386560#1117"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator -filelist /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/Objects-normal/i386/iDecide.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/iDecide0#
+
+CProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist iDecide-Info.plist
+s318915104.763852
+e318915104.806565
+r1
+xProcessInfoPlistFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist
+xiDecide-Info.plist
+lSLF07#2@26"Process iDecide-Info.plist318915104#318915104#0(0"0(0#0#86"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecide-Info.plist32370056120631408#602"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iDecide-Info.plist -genpkginfo /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app/Info.plist0#
+
+CProcessPCH /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-hfpamhmmhooligdzdmgcxeudibjq/iDecide_Prefix.pch.gch iDecide_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318915105.280757
+e318915106.474826
+r1
+xProcessPCH
+x/var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-hfpamhmmhooligdzdmgcxeudibjq/iDecide_Prefix.pch.gch
+xiDecide_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile iDecide_Prefix.pch318915105#318915106#0(0"0(0#0#86"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecide_Prefix.pch8620007712#2168"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/iDecide-project-headers.hmap -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/iDecide.build/Debug-iphonesimulator/iDecide.build/DerivedSources -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/iDecide_Prefix.pch -o /var/folders/nQ/nQl8yvdHFAyp6wQdZtJf7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iDecide_Prefix-hfpamhmmhooligdzdmgcxeudibjq/iDecide_Prefix.pch.gch0#
+
+CTouch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app
+s318915208.906248
+e318915208.910499
+r1
+xTouch
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app
+lSLF07#2@113"Touch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app318915208#318915208#0(0"0(0#0#0"8613258016#372"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/iDecide/iDecide/build/Debug-iphonesimulator/iDecide.app0#
+

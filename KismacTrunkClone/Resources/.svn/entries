@@ -1,0 +1,135 @@
+10
+
+dir
+409
+http://svn.kismac-ng.org/kmng/trunk/Resources
+http://svn.kismac-ng.org/kmng
+
+
+
+2011-04-10T05:08:32.754303Z
+403
+gkruse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ab0f578b-8a4a-0410-bf01-fbd21c03f65b
+
+Update
+dir
+
+Info.plist
+file
+
+
+
+
+2012-07-02T18:59:36.000000Z
+4369931ee34a8150ec7f1c9b2c9aaf00
+2011-04-10T00:16:22.662950Z
+400
+gkruse
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2161
+
+CachedViews
+dir
+
+Growl.framework
+dir
+
+Scripts
+dir
+
+Help
+dir
+
+Strings
+dir
+
+Nibs
+dir
+
+Sparkle.framework
+dir
+
+Buttons
+dir
+
+Info-Release.plist
+file
+
+
+
+
+2012-07-02T18:59:36.000000Z
+00066028e7ed85431d689d95f4fb8396
+2011-02-07T07:14:52.952650Z
+389
+gkruse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2297
+
+UsbDevicesPlist
+dir
+
+Icons
+dir
+
+Generic
+dir
+
+Map
+dir
+

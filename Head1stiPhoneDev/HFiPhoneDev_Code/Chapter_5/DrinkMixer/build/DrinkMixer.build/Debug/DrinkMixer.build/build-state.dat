@@ -1,0 +1,92 @@
+TDrinkMixer
+v7
+r1
+cCheck dependencies
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/DrinkArray.plist
+c000000004AE656E900000000000005AE
+t1256609513
+s1454
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/DrinkDetailViewController.xib
+c000000004AE656E90000000000006394
+t1256609513
+s25492
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/DrinksDirections.plist
+c000000004AE656E9000000000000324B
+t1256609513
+s12875
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/MainWindow.xib
+c000000004AE656E900000000000059DB
+t1256609513
+s23003
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/RootViewController.xib
+c000000004AE656E90000000000004BBB
+t1256609513
+s19387
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Resources/DrinkArray.plist
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Resources/DrinkDetailViewController.nib
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Resources/DrinksDirections.plist
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+NDrinkMixer-Info.plist
+c000000004AE656E9000000000000038D
+t1256609513
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319507497#319507497#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1'1(4@58"error: There is no SDK with the name or path 'iphoneos3.1'319507497#18446744073709551615#0#0(1@0"0(0#1#0"8639924576#0"0#
+
+CCompileXIB /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/DrinkDetailViewController.xib
+r0
+
+CCompileXIB /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/MainWindow.xib
+r0
+
+CCompileXIB /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/RootViewController.xib
+r0
+
+CCopyPlistFile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Resources/DrinkArray.plist DrinkArray.plist
+r0
+
+CCopyPlistFile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Resources/DrinksDirections.plist DrinksDirections.plist
+r0
+
+CProcessInfoPlistFile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app/Contents/Info.plist DrinkMixer-Info.plist
+r0
+
+CTouch /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/HFiPhoneDev_Code/Chapter_5/DrinkMixer/build/Debug/DrinkMixer.app
+r0
+

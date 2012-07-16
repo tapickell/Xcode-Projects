@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers
+END
+DownloadMapController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/DownloadMapController.h
+END
+GPSInfoController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/GPSInfoController.h
+END
+WayPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/WayPoint.h
+END
+DecryptController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/DecryptController.h
+END
+DownloadMapController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/DownloadMapController.m
+END
+GPSInfoController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/GPSInfoController.m
+END
+ImportController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/ImportController.h
+END
+WayPoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/383/trunk/Sources/WindowControllers/WayPoint.m
+END
+CrashReportController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/CrashReportController.h
+END
+DecryptController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/DecryptController.m
+END
+ImportController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/kmng/!svn/ver/402/trunk/Sources/WindowControllers/ImportController.m
+END
+CrashReportController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/kmng/!svn/ver/383/trunk/Sources/WindowControllers/CrashReportController.m
+END

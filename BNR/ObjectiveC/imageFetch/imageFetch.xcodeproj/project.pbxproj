@@ -1,0 +1,237 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		392F41991585841000E2B4BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 392F41981585841000E2B4BF /* Foundation.framework */; };
+		392F419C1585841000E2B4BF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 392F419B1585841000E2B4BF /* main.m */; };
+		392F41A01585841100E2B4BF /* imageFetch.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 392F419F1585841100E2B4BF /* imageFetch.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		392F41921585841000E2B4BF /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				392F41A01585841100E2B4BF /* imageFetch.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		392F41941585841000E2B4BF /* imageFetch */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = imageFetch; sourceTree = BUILT_PRODUCTS_DIR; };
+		392F41981585841000E2B4BF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		392F419B1585841000E2B4BF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		392F419E1585841100E2B4BF /* imageFetch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "imageFetch-Prefix.pch"; sourceTree = "<group>"; };
+		392F419F1585841100E2B4BF /* imageFetch.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = imageFetch.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		392F41911585841000E2B4BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				392F41991585841000E2B4BF /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		392F41891585840F00E2B4BF = {
+			isa = PBXGroup;
+			children = (
+				392F419A1585841000E2B4BF /* imageFetch */,
+				392F41971585841000E2B4BF /* Frameworks */,
+				392F41951585841000E2B4BF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		392F41951585841000E2B4BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				392F41941585841000E2B4BF /* imageFetch */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		392F41971585841000E2B4BF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				392F41981585841000E2B4BF /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		392F419A1585841000E2B4BF /* imageFetch */ = {
+			isa = PBXGroup;
+			children = (
+				392F419B1585841000E2B4BF /* main.m */,
+				392F419F1585841100E2B4BF /* imageFetch.1 */,
+				392F419D1585841100E2B4BF /* Supporting Files */,
+			);
+			path = imageFetch;
+			sourceTree = "<group>";
+		};
+		392F419D1585841100E2B4BF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				392F419E1585841100E2B4BF /* imageFetch-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		392F41931585841000E2B4BF /* imageFetch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 392F41A31585841100E2B4BF /* Build configuration list for PBXNativeTarget "imageFetch" */;
+			buildPhases = (
+				392F41901585841000E2B4BF /* Sources */,
+				392F41911585841000E2B4BF /* Frameworks */,
+				392F41921585841000E2B4BF /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = imageFetch;
+			productName = imageFetch;
+			productReference = 392F41941585841000E2B4BF /* imageFetch */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		392F418B1585841000E2B4BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Columbia College";
+			};
+			buildConfigurationList = 392F418E1585841000E2B4BF /* Build configuration list for PBXProject "imageFetch" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 392F41891585840F00E2B4BF;
+			productRefGroup = 392F41951585841000E2B4BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				392F41931585841000E2B4BF /* imageFetch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		392F41901585841000E2B4BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				392F419C1585841000E2B4BF /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		392F41A11585841100E2B4BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		392F41A21585841100E2B4BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		392F41A41585841100E2B4BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "imageFetch/imageFetch-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		392F41A51585841100E2B4BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "imageFetch/imageFetch-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		392F418E1585841000E2B4BF /* Build configuration list for PBXProject "imageFetch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				392F41A11585841100E2B4BF /* Debug */,
+				392F41A21585841100E2B4BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		392F41A31585841100E2B4BF /* Build configuration list for PBXNativeTarget "imageFetch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				392F41A41585841100E2B4BF /* Debug */,
+				392F41A51585841100E2B4BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 392F418B1585841000E2B4BF /* Project object */;
+}

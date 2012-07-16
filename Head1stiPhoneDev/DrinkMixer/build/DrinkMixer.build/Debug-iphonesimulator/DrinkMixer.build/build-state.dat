@@ -1,0 +1,768 @@
+TDrinkMixer
+v7
+r0
+t319731267.733115
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/Info.plist DrinkMixer-Info.plist
+cCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/MainWindow.xib
+cCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/RootViewController.xib
+cCopyPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkArray.plist DrinkArray.plist
+cCopyPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDirections.plist DrinkDirections.plist
+cCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.xib
+cDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/main.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixerAppDelegate.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/AddDrinkViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer normal i386
+cGenerateDSYMFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+cTouch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004D37CF020000000000000110
+t1295503106
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.h
+c000000004D59E4AB00000000000001D5
+t1297736875
+s469
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m
+c000000004D59E4AB0000000000000AA2
+t1297736875
+s2722
+i"DrinkMixerAppDelegate.h"
+i"RootViewController.h"
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.h
+c000000004D59EB0A0000000000000136
+t1297738506
+s310
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m
+c000000004D5B2BAC0000000000001241
+t1297820588
+s4673
+i"RootViewController.h"
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkArray.plist
+c000000004AE6583000000000000005AE
+t1256609840
+s1454
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m
+c000000004D5B2306000000000000061D
+t1297818374
+s1565
+i"untitled.h"
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.xib
+c000000004D5B21A70000000000005EA8
+t1297818023
+s24232
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDirections.plist
+c000000004AE6583C000000000000324B
+t1256609852
+s12875
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch
+c000000004D59E4AB0000000000000146
+t1297736875
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/MainWindow.xib
+c000000004D59E7290000000000006034
+t1297737513
+s24628
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/RootViewController.xib
+c000000004D59E4AB0000000000004455
+t1297736875
+s17493
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app
+t1297820604
+s296
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM
+t1297814328
+s264
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkArray.plist
+t1297740948
+s78
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDetailViewController.nib
+t1297820603
+s4647
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDirections.plist
+t1297741948
+s8088
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+t1297814329
+s18916
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/Info.plist
+t1297739203
+s603
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/MainWindow.nib
+t1297739205
+s2490
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/PkgInfo
+t1297739203
+s8
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/RootViewController.nib
+t1297739205
+s1518
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/untitled.nib
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixer.LinkFileList
+c000000004D5B2BB9000000000000029C
+t1297820601
+s668
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixerAppDelegate.o
+t1297739216
+s49676
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o
+t1297820609
+s42304
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.s
+t1297812674
+s183213
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/main.o
+t1297739216
+s6352
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m
+c000000004D59E4AB0000000000000165
+t1297736875
+s357
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/untitled.h
+c000000004D5B205100000000000000D0
+t1297817681
+s208
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/untitled.m
+c000000004D5B20580000000000000580
+t1297817688
+s1408
+i"untitled.h"
+
+N/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/untitled.xib
+c000000004D5B20580000000000001853
+t1297817688
+s6227
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/AddDrinkViewController.h
+c000000004D5E62140000000000000239
+t1298031124
+s569
+i<UIKit/UIKit.h>
+i"DrinkDetailViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/AddDrinkViewController.m
+c000000004D5DBF4C0000000000000629
+t1297989452
+s1577
+i"AddDrinkViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.h
+c000000004D5E62140000000000000239
+t1298031124
+s569
+i<UIKit/UIKit.h>
+i"DrinkDetailViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m
+c000000004D5E7EB80000000000001506
+t1298038456
+s5382
+i"AddDrinkViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../DetailViewController.m
+c000000004D5B3D090000000000001142
+t1297825033
+s4418
+i"DetailViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkConstants.h
+c000000004D5D2D5200000000000000AD
+t1297952082
+s173
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.h
+c000000004D5DD0BC00000000000002D2
+t1297993916
+s722
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.m
+c000000004D5DD11C0000000000000780
+t1297994012
+s1920
+i"DrinkDetailViewController.h"
+i"DrinkConstants.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.xib
+c000000004D5DF20A00000000000071BA
+t1298002442
+s29114
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.h
+c000000004D59E4AB00000000000001D5
+t1297736875
+s469
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m
+c000000004D59E4AB0000000000000AA2
+t1297736875
+s2722
+i"DrinkMixerAppDelegate.h"
+i"RootViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.h
+c000000004D5E6DC6000000000000020B
+t1298034118
+s523
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m
+c000000004D5E777E00000000000019F2
+t1298036606
+s6642
+i"RootViewController.h"
+i"DrinkDetailViewController.h"
+i"DrinkConstants.h"
+i"AddDrinkViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DetailViewController.h
+c000000004D5B3D0900000000000000F4
+t1297825033
+s244
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DetailViewController.m
+c000000004D5B3D090000000000001142
+t1297825033
+s4418
+i"DetailViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DetailViewController.xib
+c000000004D5B3D090000000000001C87
+t1297825033
+s7303
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkArray.plist
+c000000004AE6583000000000000005AE
+t1256609840
+s1454
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m
+c000000004D5B2306000000000000061D
+t1297818374
+s1565
+i"untitled.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.xib
+c000000004D5B2C2F0000000000006147
+t1297820719
+s24903
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDirections.plist
+c000000004AE6583C000000000000324B
+t1256609852
+s12875
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch
+c000000004D59E4AB0000000000000146
+t1297736875
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/MainWindow.xib
+c000000004D59E7290000000000006034
+t1297737513
+s24628
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/RootViewController.xib
+c000000004D5E7C420000000000004E0D
+t1298037826
+s19981
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app
+t1298038467
+s340
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM
+t1298038467
+s102
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DetailViewController.nib
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkArray.plist
+t1297826323
+s718
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDetailViewController.nib
+t1298002446
+s5138
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDirections.plist
+t1297826323
+s8088
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+t1298038467
+s39164
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/Info.plist
+t1297826322
+s603
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/MainWindow.nib
+t1297826323
+s2490
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/PkgInfo
+t1297826322
+s8
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/RootViewController.nib
+t1298038467
+s1920
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/AddDrinkViewController.o
+t1298038467
+s51352
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DetailViewController.o
+t2
+s0
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o
+t1298001804
+s44988
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixer.LinkFileList
+c000000004D5DC83D000000000000033E
+t1297991741
+s830
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixerAppDelegate.o
+t1298034831
+s49800
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o
+t1298038467
+s54368
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/main.o
+t1297826324
+s6424
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m
+c000000004D59E4AB0000000000000165
+t1297736875
+s357
+i<UIKit/UIKit.h>
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+NDrinkMixer-Info.plist
+c000000004D59E4AB000000000000038D
+t1297736875
+s909
+
+C<C0012:'Distributed-CompileC RootViewController.o':P9:W0>
+s319505472.575536
+e319505473.995945
+r1
+xDistributed-CompileC
+xbuild/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o
+x/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Distribute compilation of /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m319505472#319505473#0(0"0(0#0#93"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m28429423624978548#2422"    cd /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-generated-files.hmap -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-own-target-headers.hmap -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-all-target-headers.hmap -iquote /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-project-headers.hmap -fpch-preprocess -F/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/include -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources/i386 -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources -include /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch -S /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m -o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.s0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319731258#319731258#0(0"0(0#1#0"8735663616#0"0#
+
+CCompileXIB /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.xib
+s319513401.981629
+e319513403.850352
+r1
+xCompileXIB
+x/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.xib
+lSLF07#2@40"CompileXIB DrinkDetailViewController.xib319513401#319513403#0(0"0(0#0#94"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.xib8632718240#883"    cd /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_HOSTS Mac-mini.local./4,lzo,cpp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv INCLUDE_SERVER_DIR /tmp/distcc-pump.k1mQ0F    setenv INCLUDE_SERVER_PID 23147    setenv INCLUDE_SERVER_PORT /tmp/distcc-pump.k1mQ0F/socket    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDetailViewController.nib /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/MainWindow.xib
+r0
+
+CCompileXIB /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/RootViewController.xib
+r0
+
+CCompileXIB /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/untitled.xib
+r0
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.xib
+s319695246.111593
+e319695246.625363
+r1
+xCompileXIB
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.xib
+lSLF07#2@48"CompileXIB Classes/DrinkDetailViewController.xib319695246#319695246#0(0"0(0#0#100"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.xib5794290433687576576#755"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDetailViewController.nib /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.xib --sdk /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DetailViewController.xib
+r0
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.xib
+r0
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/MainWindow.xib
+s319519122.686734
+e319519123.117226
+r1
+xCompileXIB
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319519122#319519123#0(0"0(0#0#77"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/MainWindow.xib8620943232#717"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/MainWindow.nib /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/MainWindow.xib --sdk /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/RootViewController.xib
+s319731258.710136
+e319731267.346510
+r1
+xCompileXIB
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib319731258#319731267#0(0"0(0#0#85"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/RootViewController.xib8712126560#733"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/RootViewController.nib /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/RootViewController.xib --sdk /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCopyPlistFile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkArray.plist DrinkArray.plist
+r0
+
+CCopyPlistFile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDirections.plist DrinkDirections.plist
+r0
+
+CCopyPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkArray.plist DrinkArray.plist
+s319519123.106019
+e319519123.210480
+r1
+xCopyPlistFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkArray.plist
+xDrinkArray.plist
+o/Volumes/XtraSpace/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist:77: warning: Insecure world writable dir /Volumes/XtraSpace in PATH, mode 040777
+lSLF07#2@21"Copy DrinkArray.plist319519123#319519123#0(186"/Volumes/XtraSpace/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist:77: warning: Insecure world writable dir /Volumes/XtraSpace in PATH, mode 0407770(0#0#79"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkArray.plist8619978016#496"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 DrinkArray.plist --outdir /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app0#
+
+CCopyPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDirections.plist DrinkDirections.plist
+s319519123.117312
+e319519123.210336
+r1
+xCopyPlistFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkDirections.plist
+xDrinkDirections.plist
+o/Volumes/XtraSpace/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist:77: warning: Insecure world writable dir /Volumes/XtraSpace in PATH, mode 040777
+lSLF07#2@26"Copy DrinkDirections.plist319519123#319519123#0(186"/Volumes/XtraSpace/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist:77: warning: Insecure world writable dir /Volumes/XtraSpace in PATH, mode 0407770(0#0#84"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDirections.plist8620571744#501"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 DrinkDirections.plist --outdir /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app0#
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/AddDrinkViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/AddDrinkViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/AddDrinkViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319731267.348326
+e319731267.669278
+r1
+xDistributed-CompileC
+xbuild/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/AddDrinkViewController.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m: In function '-[AddDrinkViewController keyboardDidShow:]':
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m:62: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m: In function '-[AddDrinkViewController keyboardDidHide:]':
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m:81: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)
+lSLF07#2@124"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m319731267#319731267#0(990"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m: In function '-[AddDrinkViewController keyboardDidShow:]':/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m:62: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m: In function '-[AddDrinkViewController keyboardDidHide:]':/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m:81: warning: 'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)2(22@224"'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)319731267#158#337#0(6@98"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m319731256#62#0#62#0#33"'*' is deprecated (declared at *)0(22@224"'UIKeyboardBoundsUserInfoKey' is deprecated (declared at /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWindow.h:118)319731267#653#337#0(6@98"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m319731256#81#0#81#0#33"'*' is deprecated (declared at *)0(0#0#98"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m8713118368#2499"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/distcc /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../AddDrinkViewController.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/AddDrinkViewController.o0#
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DetailViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/../DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DetailViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319513403.863937
+e319513409.215333
+r0
+xDistributed-CompileC
+xbuild/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o
+x/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:9:21: error: untitled.h: No such file or directory
+odistcc[23926] ERROR: compile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m on localhost:3632/2 failed
+odistcc[23926] (dcc_build_somewhere) Warning: remote compilation of '/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m' failed, retrying locally
+odistcc[23926] Warning: failed to distribute /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m to localhost:3632/2, running locally instead
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:9:21: error: untitled.h: No such file or directory
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:13: warning: cannot find interface declaration for 'untitled'
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:13: error: no declaration of property 'nameTextField' found in the interface
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:13: error: no declaration of property 'ingredientsTextView' found in the interface
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:13: error: no declaration of property 'directionsTextView' found in the interface
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m: In function '-[untitled didReceiveMemoryWarning]':
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:42: error: no super class declared in @interface for 'untitled'
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m: In function '-[untitled viewDidUnload]':
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:48: error: no super class declared in @interface for 'untitled'
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m: In function '-[untitled dealloc]':
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:55: error: 'nameTextField' undeclared (first use in this function)
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:55: error: (Each undeclared identifier is reported only once
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:55: error: for each function it appears in.)
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:56: error: 'ingredientsTextView' undeclared (first use in this function)
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:57: error: 'directionsTextView' undeclared (first use in this function)
+o/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:58: error: no super class declared in @interface for 'untitled'
+odistcc[23926] ERROR: compile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m on localhost failed
+lSLF07#2@118"Distribute compilation of /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319513403#319513409#0(3287"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:9:21: error: untitled.h: No such file or directorydistcc[23926] ERROR: compile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m on localhost:3632/2 faileddistcc[23926] (dcc_build_somewhere) Warning: remote compilation of '/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m' failed, retrying locallydistcc[23926] Warning: failed to distribute /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m to localhost:3632/2, running locally instead/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:9:21: error: untitled.h: No such file or directory/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:13: warning: cannot find interface declaration for 'untitled'/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:13: error: no declaration of property 'nameTextField' found in the interface/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:13: error: no declaration of property 'ingredientsTextView' found in the interface/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:13: error: no declaration of property 'directionsTextView' found in the interface/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m: In function '-[untitled didReceiveMemoryWarning]':/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:42: error: no super class declared in @interface for 'untitled'/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m: In function '-[untitled viewDidUnload]':/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:48: error: no super class declared in @interface for 'untitled'/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m: In function '-[untitled dealloc]':/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:55: error: 'nameTextField' undeclared (first use in this function)/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:55: error: (Each undeclared identifier is reported only once/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:55: error: for each function it appears in.)/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:56: error: 'ingredientsTextView' undeclared (first use in this function)/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:57: error: 'directionsTextView' undeclared (first use in this function)/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m:58: error: no super class declared in @interface for 'untitled'distcc[23926] ERROR: compile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m on localhost failed12(4@37"Untitled.h: No such file or directory319513408#0#144#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#9#0#9#0#28"*: No such file or directory0(4@37"Untitled.h: No such file or directory319513409#662#144#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#9#0#9#0#28"*: No such file or directory0(22@48"Cannot find interface declaration for 'untitled'319513409#806#155#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#13#0#13#0#0"0(4@65"No declaration of property 'nameTextField' found in the interface319513409#961#170#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#13#0#13#0#0"0(4@71"No declaration of property 'ingredientsTextView' found in the interface319513409#1131#176#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#13#0#13#0#0"0(4@70"No declaration of property 'directionsTextView' found in the interface319513409#1307#175#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#13#0#13#0#0"0(4@52"No super class declared in @interface for 'untitled'319513409#1627#157#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#42#0#42#0#0"0(4@52"No super class declared in @interface for 'untitled'319513409#1919#157#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#48#0#48#0#0"0(4@55"'nameTextField' undeclared (first use in this function)319513409#2205#160#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#55#0#55#0#43"'*' undeclared (first use in this function)0(4@61"'ingredientsTextView' undeclared (first use in this function)319513409#2657#166#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#56#0#56#0#43"'*' undeclared (first use in this function)0(4@60"'directionsTextView' undeclared (first use in this function)319513409#2823#165#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#57#0#57#0#43"'*' undeclared (first use in this function)0(4@52"No super class declared in @interface for 'untitled'319513409#2988#157#0(6@92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m319511174#58#0#58#0#0"0(0#0#92"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m8633284320#2580"    cd /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv INCLUDE_SERVER_DIR /tmp/distcc-pump.k1mQ0F    setenv INCLUDE_SERVER_PID 23147    setenv INCLUDE_SERVER_PORT /tmp/distcc-pump.k1mQ0F/socket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-generated-files.hmap -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-own-target-headers.hmap -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-all-target-headers.hmap -iquote /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-project-headers.hmap -fpch-preprocess -F/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/include -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources/i386 -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources -include /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch -c /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m -o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o1#
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319694598.532998
+e319694604.073878
+r1
+xDistributed-CompileC
+xbuild/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.m319694598#319694604#0(0"0(0#0#98"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.m8614423584#2502"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/distcc /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkDetailViewController.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o0#
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkDetailViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixerAppDelegate.o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixerAppDelegate.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319727630.981998
+e319727631.678274
+r1
+xDistributed-CompileC
+xbuild/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixerAppDelegate.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m319727630#319727631#0(0"0(0#0#94"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m8703591392#2494"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/distcc /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/DrinkMixerAppDelegate.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixerAppDelegate.o0#
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319513403.850751
+e319513409.333967
+r1
+xDistributed-CompileC
+xbuild/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o
+x/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Distribute compilation of /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m319513403#319513409#0(0"0(0#0#93"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m8611514336#2574"    cd /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv INCLUDE_SERVER_DIR /tmp/distcc-pump.k1mQ0F    setenv INCLUDE_SERVER_PID 23147    setenv INCLUDE_SERVER_PORT /tmp/distcc-pump.k1mQ0F/socket    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/distcc /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-generated-files.hmap -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-own-target-headers.hmap -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-all-target-headers.hmap -iquote /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-project-headers.hmap -fpch-preprocess -F/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/include -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources/i386 -I/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources -include /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch -c /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m -o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o0#
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319731267.346893
+e319731267.686586
+r1
+xDistributed-CompileC
+xbuild/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m319731267#319731267#0(0"0(0#0#91"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m8712050112#2488"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/distcc /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/Classes/RootViewController.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/RootViewController.o0#
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/main.o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/main.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319519123.676242
+e319519124.380574
+r1
+xDistributed-CompileC
+xbuild/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/main.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+odistcc[74650] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[74650] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF07#2@95"Distribute compilation of /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m319519123#319519124#0(200"distcc[74650] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[74650] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally0(0#0#69"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m8620811584#2473"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "--randomize Mac-mini.local./4,lzo,cpp"    setenv DISTCC_SYSTEM "10.6.6 (10J567, i386)"    setenv LANG en_US.US-ASCII    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/distcc /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DrinkMixer-project-headers.hmap -fpch-preprocess -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/DerivedSources -include /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/main.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/main.o0#
+
+CDistributed-CompileC build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/untitled.o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/untitled.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CGenerateDSYMFile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+s319507128.891080
+e319507129.455291
+r1
+xGenerateDSYMFile
+x/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM
+x/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/DrinkMixer.app.dSYM build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer319507128#319507129#0(0"0(0#0#118"/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer8622835776#470"    cd /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer -o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM0#
+
+CGenerateDSYMFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+s319731267.712163
+e319731267.730102
+r1
+xGenerateDSYMFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/DrinkMixer.app.dSYM build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer319731267#319731267#0(0"0(0#0#116"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer8712221760#518"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/usr/bin/dsymutil /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app.dSYM0#
+
+CLd /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer normal i386
+s319507128.460607
+e319507128.890933
+r1
+xLd
+x/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+xnormal
+xi386
+lSLF07#2@123"Link /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer319507128#319507128#0(0"0(0#0#0"8622121728#1045"    cd /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -F/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -filelist /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer0#
+
+CLd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer normal i386
+s319731267.686675
+e319731267.712070
+r1
+xLd
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer
+xnormal
+xi386
+lSLF07#2@121"Link /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer319731267#319731267#0(0"0(0#0#0"8713202112#1107"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator -filelist /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/DrinkMixer.build/Debug-iphonesimulator/DrinkMixer.build/Objects-normal/i386/DrinkMixer.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/DrinkMixer0#
+
+CProcessInfoPlistFile /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/Info.plist DrinkMixer-Info.plist
+r0
+
+CProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/Info.plist DrinkMixer-Info.plist
+s319519122.634144
+e319519122.686648
+r1
+xProcessInfoPlistFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/Info.plist
+xDrinkMixer-Info.plist
+lSLF07#2@29"Process DrinkMixer-Info.plist319519122#319519122#0(0"0(0#0#84"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/DrinkMixer-Info.plist27303536605069420#596"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DrinkMixer-Info.plist -genpkginfo /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app/Info.plist0#
+
+CTouch /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app
+s319507129.455584
+e319507129.461153
+r1
+xTouch
+x/Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app
+lSLF07#2@113"Touch /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app319507129#319507129#0(0"0(0#0#0"8642658208#333"    cd /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/Programming-1/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app0#
+
+CTouch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app
+s319731267.730183
+e319731267.733081
+r1
+xTouch
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app
+lSLF07#2@111"Touch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app319731267#319731267#0(0"0(0#0#0"8712063040#365"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer    setenv PATH "/Volumes/XtraSpace/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Volumes/XtraSpace/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/DrinkMixer/build/Debug-iphonesimulator/DrinkMixer.app0#
+

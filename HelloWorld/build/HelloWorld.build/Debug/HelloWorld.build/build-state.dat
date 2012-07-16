@@ -1,0 +1,106 @@
+THelloWorld
+v7
+r0
+t362528674.893999
+cCheck dependencies
+cCompileC build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/main.o /Volumes/todd/xcodeprojects/HelloWorld/main.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Volumes/todd/xcodeprojects/HelloWorld/build/Debug/HelloWorld normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Users/todd/Documents/HelloWorld/build/Debug/HelloWorld
+t1278085561
+s8960
+
+N/Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/x86_64/HelloWorld.LinkFileList
+c000000004C2E09B8000000000000006C
+t1278085560
+s108
+
+N/Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/x86_64/main.o
+t1278085561
+s2652
+
+N/Users/todd/Documents/HelloWorld/main.c
+c000000004C2E091F0000000000000089
+t1278085407
+s137
+i<stdio.h>
+
+N/Volumes/todd/xcodeprojects/HelloWorld/build/Debug/HelloWorld
+t1340835874
+s8888
+
+N/Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004FEB88210000000000000070
+t1340835873
+s112
+
+N/Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/main.o
+t1340835874
+s2152
+
+N/Volumes/todd/xcodeprojects/HelloWorld/main.c
+c000000004C2E091F0000000000000089
+t1278085407
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362528673#362528673#0(0"0(0#1#0"4231240#0"0#
+
+CCompileC build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/main.o /Volumes/todd/xcodeprojects/HelloWorld/main.c normal i386 c com.apple.compilers.gcc.4_2
+s362528673.977808
+e362528674.484720
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/main.o
+x/Volumes/todd/xcodeprojects/HelloWorld/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Volumes/todd/xcodeprojects/HelloWorld/main.c362528674#362528674#0(0"0(0#0#45"/Volumes/todd/xcodeprojects/HelloWorld/main.c4231240#1318"    cd /Volumes/todd/xcodeprojects/HelloWorld    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-generated-files.hmap -I/Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-project-headers.hmap -F/Volumes/todd/xcodeprojects/HelloWorld/build/Debug -I/Volumes/todd/xcodeprojects/HelloWorld/build/Debug/include -I/Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources/i386 -I/Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources -c /Volumes/todd/xcodeprojects/HelloWorld/main.c -o /Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/main.o0#
+
+CCompileC build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/x86_64/main.o /Users/todd/Documents/HelloWorld/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s299778360.791492
+e299778361.146224
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/x86_64/main.o
+x/Users/todd/Documents/HelloWorld/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/todd/Documents/HelloWorld/main.c299778360#299778361#0(0"0(0#0#39"/Users/todd/Documents/HelloWorld/main.c8660259774160596992#1258"    cd /Users/todd/Documents/HelloWorld    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/todd/Documents/HelloWorld/build/Debug -I/Users/todd/Documents/HelloWorld/build/Debug/include -I/Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources/x86_64 -I/Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/DerivedSources -c /Users/todd/Documents/HelloWorld/main.c -o /Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/todd/Documents/HelloWorld/build/Debug/HelloWorld normal x86_64
+s299778361.146338
+e299778361.519800
+r1
+xLd
+x/Users/todd/Documents/HelloWorld/build/Debug/HelloWorld
+xnormal
+xx86_64
+lSLF07#2@60"Link /Users/todd/Documents/HelloWorld/build/Debug/HelloWorld299778361#299778361#0(0"0(0#0#0"30399731281166384#480"    cd /Users/todd/Documents/HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/todd/Documents/HelloWorld/build/Debug -F/Users/todd/Documents/HelloWorld/build/Debug -filelist /Users/todd/Documents/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/x86_64/HelloWorld.LinkFileList -mmacosx-version-min=10.6 -o /Users/todd/Documents/HelloWorld/build/Debug/HelloWorld0#
+
+CLd /Volumes/todd/xcodeprojects/HelloWorld/build/Debug/HelloWorld normal i386
+s362528674.484892
+e362528674.893852
+r1
+xLd
+x/Volumes/todd/xcodeprojects/HelloWorld/build/Debug/HelloWorld
+xnormal
+xi386
+lSLF07#2@66"Link /Volumes/todd/xcodeprojects/HelloWorld/build/Debug/HelloWorld362528674#362528674#0(0"0(0#0#0"4717520#506"    cd /Volumes/todd/xcodeprojects/HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Volumes/todd/xcodeprojects/HelloWorld/build/Debug -F/Volumes/todd/xcodeprojects/HelloWorld/build/Debug -filelist /Volumes/todd/xcodeprojects/HelloWorld/build/HelloWorld.build/Debug/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -mmacosx-version-min=10.6 -o /Volumes/todd/xcodeprojects/HelloWorld/build/Debug/HelloWorld0#
+

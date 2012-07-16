@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/408/trunk/Subprojects/BIGeneric
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/version.plist
+END
+BIZoomView.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BIZoomView.h
+END
+BISpeechController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/kmng/!svn/ver/401/trunk/Subprojects/BIGeneric/BISpeechController.m
+END
+BLAuthentication.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BLAuthentication.h
+END
+NSToolbarView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/NSToolbarView.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/Info.plist
+END
+BIZoomView.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/364/trunk/Subprojects/BIGeneric/BIZoomView.m
+END
+NSBezierPath_AMAdditons.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/NSBezierPath_AMAdditons.h
+END
+BLAuthentication.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/kmng/!svn/ver/401/trunk/Subprojects/BIGeneric/BLAuthentication.m
+END
+BIDecompressor.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/kmng/!svn/ver/370/trunk/Subprojects/BIGeneric/BIDecompressor.mm
+END
+NSToolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/NSToolbar.h
+END
+BIValuePair.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/336/trunk/Subprojects/BIGeneric/BIValuePair.h
+END
+NSBezierPath_AMAdditons.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/NSBezierPath_AMAdditons.m
+END
+BICompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/370/trunk/Subprojects/BIGeneric/BICompressor.h
+END
+BIValuePair.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/401/trunk/Subprojects/BIGeneric/BIValuePair.m
+END
+BIToolbarView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BIToolbarView.h
+END
+BINSExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BINSExtensions.h
+END
+BICompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/370/trunk/Subprojects/BIGeneric/BICompressor.m
+END
+BIToolbarView.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BIToolbarView.m
+END
+BIToolbar.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BIToolbar.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/main.c
+END
+BINSExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BINSExtensions.m
+END
+BIDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/kmng/!svn/ver/370/trunk/Subprojects/BIGeneric/BIDecompressor.h
+END
+BIToolbar.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BIToolbar.m
+END
+BISpeechController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BISpeechController.h
+END
+BIGeneric_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/kmng/!svn/ver/129/trunk/Subprojects/BIGeneric/BIGeneric_Prefix.pch
+END
+BIGeneric.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/394/trunk/Subprojects/BIGeneric/BIGeneric.h
+END

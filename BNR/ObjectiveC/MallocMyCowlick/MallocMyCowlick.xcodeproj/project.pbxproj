@@ -1,0 +1,210 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5F2282811561E750000042DB /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 5F2282801561E750000042DB /* main.c */; };
+		5F2282831561E750000042DB /* MallocMyCowlick.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 5F2282821561E750000042DB /* MallocMyCowlick.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5F22827A1561E750000042DB /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				5F2282831561E750000042DB /* MallocMyCowlick.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		5F22827C1561E750000042DB /* MallocMyCowlick */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MallocMyCowlick; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F2282801561E750000042DB /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		5F2282821561E750000042DB /* MallocMyCowlick.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = MallocMyCowlick.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5F2282791561E750000042DB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5F2282711561E750000042DB = {
+			isa = PBXGroup;
+			children = (
+				5F22827F1561E750000042DB /* MallocMyCowlick */,
+				5F22827D1561E750000042DB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5F22827D1561E750000042DB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5F22827C1561E750000042DB /* MallocMyCowlick */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F22827F1561E750000042DB /* MallocMyCowlick */ = {
+			isa = PBXGroup;
+			children = (
+				5F2282801561E750000042DB /* main.c */,
+				5F2282821561E750000042DB /* MallocMyCowlick.1 */,
+			);
+			path = MallocMyCowlick;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5F22827B1561E750000042DB /* MallocMyCowlick */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5F2282861561E750000042DB /* Build configuration list for PBXNativeTarget "MallocMyCowlick" */;
+			buildPhases = (
+				5F2282781561E750000042DB /* Sources */,
+				5F2282791561E750000042DB /* Frameworks */,
+				5F22827A1561E750000042DB /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MallocMyCowlick;
+			productName = MallocMyCowlick;
+			productReference = 5F22827C1561E750000042DB /* MallocMyCowlick */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5F2282731561E750000042DB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 5F2282761561E750000042DB /* Build configuration list for PBXProject "MallocMyCowlick" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5F2282711561E750000042DB;
+			productRefGroup = 5F22827D1561E750000042DB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5F22827B1561E750000042DB /* MallocMyCowlick */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5F2282781561E750000042DB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F2282811561E750000042DB /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5F2282841561E750000042DB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		5F2282851561E750000042DB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		5F2282871561E750000042DB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5F2282881561E750000042DB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5F2282761561E750000042DB /* Build configuration list for PBXProject "MallocMyCowlick" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F2282841561E750000042DB /* Debug */,
+				5F2282851561E750000042DB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5F2282861561E750000042DB /* Build configuration list for PBXNativeTarget "MallocMyCowlick" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F2282871561E750000042DB /* Debug */,
+				5F2282881561E750000042DB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5F2282731561E750000042DB /* Project object */;
+}

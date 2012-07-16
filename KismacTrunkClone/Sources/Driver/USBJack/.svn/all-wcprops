@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/kmng/!svn/ver/405/trunk/Sources/Driver/USBJack
+END
+rtl8187.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Driver/USBJack/rtl8187.h
+END
+rtl818x.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Driver/USBJack/rtl818x.h
+END
+RalinkJack.mm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/405/trunk/Sources/Driver/USBJack/RalinkJack.mm
+END
+RT73.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/kmng/!svn/ver/402/trunk/Sources/Driver/USBJack/RT73.h
+END
+rt2570.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/399/trunk/Sources/Driver/USBJack/rt2570.h
+END
+IntersilJack.mm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/kmng/!svn/ver/405/trunk/Sources/Driver/USBJack/IntersilJack.mm
+END
+USBJack.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/402/trunk/Sources/Driver/USBJack/USBJack.mm
+END
+structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Driver/USBJack/structs.h
+END
+RalinkJack.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/399/trunk/Sources/Driver/USBJack/RalinkJack.h
+END
+RT73Jack.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/405/trunk/Sources/Driver/USBJack/RT73Jack.mm
+END
+rtl8187.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/405/trunk/Sources/Driver/USBJack/rtl8187.mm
+END
+prism2.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/383/trunk/Sources/Driver/USBJack/prism2.h
+END
+ralink.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/kmng/!svn/ver/405/trunk/Sources/Driver/USBJack/ralink.h
+END
+IntersilJack.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/kmng/!svn/ver/405/trunk/Sources/Driver/USBJack/IntersilJack.h
+END
+USBJack.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/402/trunk/Sources/Driver/USBJack/USBJack.h
+END
+eeprom_93cx6.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/kmng/!svn/ver/383/trunk/Sources/Driver/USBJack/eeprom_93cx6.h
+END
+RT73Jack.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/399/trunk/Sources/Driver/USBJack/RT73Jack.h
+END

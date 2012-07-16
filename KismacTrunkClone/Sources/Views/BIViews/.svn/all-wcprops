@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews
+END
+BITextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews/BITextView.h
+END
+BIView.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews/BIView.m
+END
+BIImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews/BIImageView.m
+END
+BISubView.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews/BISubView.h
+END
+BITextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews/BITextView.m
+END
+BISubView.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews/BISubView.m
+END
+BIView.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews/BIView.h
+END
+BIImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/kmng/!svn/ver/383/trunk/Sources/Views/BIViews/BIImageView.h
+END

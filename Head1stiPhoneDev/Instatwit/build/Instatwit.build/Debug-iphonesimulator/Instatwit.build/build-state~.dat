@@ -1,0 +1,259 @@
+TInstatwit
+v7
+r0
+t319004674.682653
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Info.plist Instatwit-Info.plist
+cCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/MainWindow.xib
+cCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/InstatwitViewController.xib
+cProcessPCH /var/folders/mJ/mJxcHfFmE5CrzwFj2gOmrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Instatwit_Prefix-birepxnuittcqddssgalzsrgjgeo/Instatwit_Prefix.pch.gch Instatwit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/main.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitAppDelegate.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit normal i386
+cGenerateDSYMFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app.dSYM /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit
+cTouch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004D37CF020000000000000110
+t1295503106
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitAppDelegate.h
+c000000004D5343DA00000000000001E3
+t1297302490
+s483
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitAppDelegate.m
+c000000004D5343DD0000000000000A8D
+t1297302493
+s2701
+i"InstatwitAppDelegate.h"
+i"InstatwitViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.h
+c000000004D535F4F0000000000000146
+t1297309519
+s326
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m
+c000000004D5367FC0000000000000970
+t1297311740
+s2416
+i"InstatwitViewController.h"
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/InstatwitViewController.xib
+c000000004D53686900000000000067C3
+t1297311849
+s26563
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Instatwit_Prefix.pch
+c000000004D5343F400000000000000BB
+t1297302516
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/MainWindow.xib
+c000000004D5343E70000000000004E41
+t1297302503
+s20033
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app
+t1297311874
+s264
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app.dSYM
+t1297311874
+s264
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Info.plist
+t1297311870
+s599
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit
+t1297311874
+s18340
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/InstatwitViewController.nib
+t1297311870
+s4457
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/MainWindow.nib
+t1297311870
+s1685
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/PkgInfo
+t1297311870
+s8
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/Instatwit.LinkFileList
+c000000004D53687D00000000000001E2
+t1297311869
+s482
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitAppDelegate.o
+t1297311873
+s48016
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitViewController.o
+t1297311873
+s43412
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/main.o
+t1297311872
+s6348
+
+N/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/main.m
+c000000004D5344000000000000000163
+t1297302528
+s355
+i<UIKit/UIKit.h>
+
+N/var/folders/mJ/mJxcHfFmE5CrzwFj2gOmrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Instatwit_Prefix-birepxnuittcqddssgalzsrgjgeo/Instatwit_Prefix.pch.gch
+t1297311871
+s15211536
+
+NInstatwit-Info.plist
+c000000004D5343E9000000000000038D
+t1297302505
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319004665#319004669#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitAppDelegate.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319004671.918654
+e319004672.439756
+r1
+xCompileC
+xbuild/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitAppDelegate.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitAppDelegate.m319004671#319004672#0(0"0(0#0#92"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitAppDelegate.m8635406976#2247"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-project-headers.hmap -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/DerivedSources -include /var/folders/mJ/mJxcHfFmE5CrzwFj2gOmrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Instatwit_Prefix-birepxnuittcqddssgalzsrgjgeo/Instatwit_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitAppDelegate.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitAppDelegate.o0#
+
+CCompileC build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitViewController.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319004672.391104
+e319004673.156399
+r1
+xCompileC
+xbuild/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitViewController.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m:101: warning: incomplete implementation of class 'InstatwitViewController'
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m:101: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found
+o/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m:101: warning: class 'InstatwitViewController' does not fully implement the 'UIPickerViewDataSource' protocol
+lSLF07#2@103"Compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m319004672#319004673#0(557"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m:101: warning: incomplete implementation of class 'InstatwitViewController'/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m:101: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m:101: warning: class 'InstatwitViewController' does not fully implement the 'UIPickerViewDataSource' protocol3(22@60"Incomplete implementation of class 'InstatwitViewController'319004672#0#171#0(6@95"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m319004540#101#0#101#0#38"incomplete implementation of class '*'0(22@70"Method definition for '-pickerView:numberOfRowsInComponent:' not found319004672#171#181#0(6@95"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m319004540#101#0#101#0#35"method definition for '*' not found0(22@94"Class 'InstatwitViewController' does not fully implement the 'UIPickerViewDataSource' protocol319004672#352#205#0(6@95"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m319004540#101#0#101#0#51"class '*' does not fully implement the '*' protocol0(0#0#95"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m8628137920#2253"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-project-headers.hmap -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/DerivedSources -include /var/folders/mJ/mJxcHfFmE5CrzwFj2gOmrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Instatwit_Prefix-birepxnuittcqddssgalzsrgjgeo/Instatwit_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Classes/InstatwitViewController.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/InstatwitViewController.o0#
+
+CCompileC build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/main.o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s319004671.914778
+e319004672.390989
+r1
+xCompileC
+xbuild/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/main.o
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/main.m319004671#319004672#0(0"0(0#0#68"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/main.m8640499936#2207"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-project-headers.hmap -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/DerivedSources -include /var/folders/mJ/mJxcHfFmE5CrzwFj2gOmrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Instatwit_Prefix-birepxnuittcqddssgalzsrgjgeo/Instatwit_Prefix.pch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/main.m -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/InstatwitViewController.xib
+s319004669.628772
+e319004670.323764
+r1
+xCompileXIB
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/InstatwitViewController.xib
+lSLF07#2@38"CompileXIB InstatwitViewController.xib319004669#319004670#0(0"0(0#0#89"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/InstatwitViewController.xib8629418976#667"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/InstatwitViewController.nib /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/InstatwitViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/MainWindow.xib
+s319004669.625634
+e319004670.271519
+r1
+xCompileXIB
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319004669#319004670#0(0"0(0#0#76"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/MainWindow.xib8631135648#641"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/MainWindow.nib /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app.dSYM /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit
+s319004674.093605
+e319004674.637777
+r1
+xGenerateDSYMFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app.dSYM
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Instatwit.app.dSYM build/Debug-iphonesimulator/Instatwit.app/Instatwit319004674#319004674#0(0"0(0#0#113"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit8627233824#458"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app.dSYM0#
+
+CLd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit normal i386
+s319004673.156593
+e319004674.093356
+r1
+xLd
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit
+xnormal
+xi386
+lSLF07#2@118"Link /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit319004673#319004674#0(0"0(0#0#0"32088624093986912#1025"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator -filelist /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Objects-normal/i386/Instatwit.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Instatwit0#
+
+CProcessInfoPlistFile /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Info.plist Instatwit-Info.plist
+s319004669.343664
+e319004669.625484
+r1
+xProcessInfoPlistFile
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Info.plist
+xInstatwit-Info.plist
+lSLF07#2@28"Process Instatwit-Info.plist319004669#319004669#0(0"0(0#0#82"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Instatwit-Info.plist32651513917341812#554"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Instatwit-Info.plist -genpkginfo /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app/Info.plist0#
+
+CProcessPCH /var/folders/mJ/mJxcHfFmE5CrzwFj2gOmrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Instatwit_Prefix-birepxnuittcqddssgalzsrgjgeo/Instatwit_Prefix.pch.gch Instatwit_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319004670.324038
+e319004671.914476
+r1
+xProcessPCH
+x/var/folders/mJ/mJxcHfFmE5CrzwFj2gOmrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Instatwit_Prefix-birepxnuittcqddssgalzsrgjgeo/Instatwit_Prefix.pch.gch
+xInstatwit_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Instatwit_Prefix.pch319004670#319004671#0(0"0(0#0#82"/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Instatwit_Prefix.pch8642079072#2074"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-generated-files.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-own-target-headers.hmap -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-all-target-headers.hmap -iquote /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/Instatwit-project-headers.hmap -F/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/include -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/DerivedSources/i386 -I/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Instatwit.build/Debug-iphonesimulator/Instatwit.build/DerivedSources -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/Instatwit_Prefix.pch -o /var/folders/mJ/mJxcHfFmE5CrzwFj2gOmrU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Instatwit_Prefix-birepxnuittcqddssgalzsrgjgeo/Instatwit_Prefix.pch.gch0#
+
+CTouch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app
+s319004674.637922
+e319004674.682554
+r1
+xTouch
+x/Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app
+lSLF07#2@109"Touch /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app319004674#319004674#0(0"0(0#0#0"8639129664#326"    cd /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Volumes/Programming/XcodeProjects/Head1stiPhoneDev/Instatwit/build/Debug-iphonesimulator/Instatwit.app0#
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/kmng/!svn/ver/409/trunk
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/kmng/!svn/ver/386/trunk/main.m
+END
+version.plist
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/kmng/!svn/ver/129/trunk/version.plist
+END
+updateHelpIndex.command
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/129/trunk/updateHelpIndex.command
+END
+sign_update.rb
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/kmng/!svn/ver/320/trunk/sign_update.rb
+END
+KisMACUnitTest-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/383/trunk/KisMACUnitTest-Info.plist
+END
+compile.command.disabled
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/kmng/!svn/ver/327/trunk/compile.command.disabled
+END
+KisMAC_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/kmng/!svn/ver/383/trunk/KisMAC_Prefix.pch
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/kmng/!svn/ver/383/trunk/Makefile
+END

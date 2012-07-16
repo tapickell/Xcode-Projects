@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/kmng/!svn/ver/398/trunk/Resources/Generic
+END
+example.dump
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/kmng/!svn/ver/129/trunk/Resources/Generic/example.dump
+END
+vendor.db
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/398/trunk/Resources/Generic/vendor.db
+END
+KisMAC.scriptTerminology
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/kmng/!svn/ver/149/trunk/Resources/Generic/KisMAC.scriptTerminology
+END
+KisMAC.scriptSuite
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/256/trunk/Resources/Generic/KisMAC.scriptSuite
+END
+OUItoVendorDB.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/368/trunk/Resources/Generic/OUItoVendorDB.pl
+END

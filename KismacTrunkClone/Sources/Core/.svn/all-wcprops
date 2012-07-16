@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/kmng/!svn/ver/407/trunk/Sources/Core
+END
+WavePacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/383/trunk/Sources/Core/WavePacket.h
+END
+ScanHierarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/383/trunk/Sources/Core/ScanHierarch.h
+END
+WaveStorageController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/383/trunk/Sources/Core/WaveStorageController.h
+END
+WaveNet.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/405/trunk/Sources/Core/WaveNet.mm
+END
+WaveScanner.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/kmng/!svn/ver/407/trunk/Sources/Core/WaveScanner.mm
+END
+KismetXMLImporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/402/trunk/Sources/Core/KismetXMLImporter.h
+END
+WaveStorageController.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/kmng/!svn/ver/402/trunk/Sources/Core/WaveStorageController.m
+END
+KisMACNotifications.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/kmng/!svn/ver/383/trunk/Sources/Core/KisMACNotifications.h
+END
+WaveClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/383/trunk/Sources/Core/WaveClient.h
+END
+WaveHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/402/trunk/Sources/Core/WaveHelper.h
+END
+KisMAC80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/kmng/!svn/ver/383/trunk/Sources/Core/KisMAC80211.h
+END
+KismetXMLImporter.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Core/KismetXMLImporter.m
+END
+WaveContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/kmng/!svn/ver/383/trunk/Sources/Core/WaveContainer.h
+END
+WaveClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/383/trunk/Sources/Core/WaveClient.m
+END
+WaveHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/kmng/!svn/ver/405/trunk/Sources/Core/WaveHelper.m
+END
+WaveNet.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/kmng/!svn/ver/383/trunk/Sources/Core/WaveNet.h
+END
+WaveContainer.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/kmng/!svn/ver/405/trunk/Sources/Core/WaveContainer.m
+END
+ScanHierarch.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/kmng/!svn/ver/402/trunk/Sources/Core/ScanHierarch.mm
+END
+WavePacket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/kmng/!svn/ver/405/trunk/Sources/Core/WavePacket.mm
+END
+WaveScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/kmng/!svn/ver/407/trunk/Sources/Core/WaveScanner.h
+END
+80211b.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/kmng/!svn/ver/407/trunk/Sources/Core/80211b.h
+END
+WaveWeakContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Core/WaveWeakContainer.h
+END
+KMCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/383/trunk/Sources/Core/KMCommon.h
+END
+WaveWeakContainer.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/kmng/!svn/ver/383/trunk/Sources/Core/WaveWeakContainer.m
+END
+KMCommon.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/kmng/!svn/ver/383/trunk/Sources/Core/KMCommon.m
+END
